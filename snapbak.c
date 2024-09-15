@@ -76,6 +76,10 @@ int main(int argc, char* argv[]) {
             break; // Backup file name is available
         }
         version++;
+        if (version > 99) {
+            printf("Warning: Backup version exceeded 99. Cannot create backup file.\n");
+            return 1; // Exit with error code
+        }
     }
 
     // Open the source file for reading
