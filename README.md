@@ -4,7 +4,7 @@
 [![macos](https://github.com/renatus-xxxx/snapbak/workflows/macos/badge.svg)](https://github.com/renatus-xxxx/snapbak/actions?query=workflow%3Amacos)
 [![ubuntu](https://github.com/renatus-xxxx/snapbak/workflows/ubuntu/badge.svg)](https://github.com/renatus-xxxx/snapbak/actions?query=workflow%3Aubuntu)
 
-<img src="https://raw.githubusercontent.com/renatus-xxxx/snapbak/main/images/WMSXScreen.png" title="tether" />
+<img src="https://raw.githubusercontent.com/renatus-xxxx/snapbak/main/images/tether.png" title="tether" />
 
 # snapbak
 
