@@ -31,6 +31,6 @@ Here is an example of how snapbak works:
 - This process ensures that older versions are retained, providing simple version control.
 
 ## Download
-- [try on webmsx](https://webmsx.org/?MACHINE=MSX1J&DISKA_URL=https://raw.githubusercontent.com/renatus-xxxx/snapbak/main/bin/SNAPBAK.DSK&FAST_BOOT)
+- [try on webmsx](https://webmsx.org/?MACHINE=MSXTRJ&DISKA_URL=https://raw.githubusercontent.com/renatus-xxxx/snapbak/main/bin/SNAPBAK.DSK&FAST_BOOT)
 - [.DSK image(DOS for MSX v0.16 Gaku)](https://raw.githubusercontent.com/renatus-xxxx/snapbak/main/bin/SNAPBAK.DSK)
 - [SNAPBAK.COM](https://raw.githubusercontent.com/renatus-xxxx/snapbak/main/bin/SNAPBAK.COM)
